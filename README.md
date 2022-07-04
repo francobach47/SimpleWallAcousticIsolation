@@ -11,3 +11,7 @@ A partir de una base de datos proveniente de un archivo de excel, provee en form
 * Modelo Davy
 
 De ser deseado, devuelve un archivo excel con la información en tablas y gráficos.
+
+Figura ejemplo de la GUI.
+
+![Screenshot](gui_ej.png)
