@@ -14,4 +14,4 @@ De ser deseado, devuelve un archivo excel con la información en tablas y gráfi
 
 Figura ejemplo de la GUI.
 
-![Screenshot](gui_ej.png)
+![Screenshot](image/gui_ej.png)
