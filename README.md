@@ -1,4 +1,4 @@
-# simple_wall_acoustic_isolation
+# simple_wall-acoustic_isolation
 Aislamiento a ruido aéreo de una pared simple mediante distintos métodos de predicción
 
 GUI desarrollada en Python que sirve para predecir el aislamiento acústico aéreo de paramentos simples y homogéneos, a partir de sus características físicas.
