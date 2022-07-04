@@ -16,5 +16,5 @@ Figura ejemplo de la GUI.
 
 
 <p align="center">
-  <img width="460" height="300" src="image/gui_ej.pn">
+  <img width="460" height="300" src="image/gui_ej.png">
 </p>
